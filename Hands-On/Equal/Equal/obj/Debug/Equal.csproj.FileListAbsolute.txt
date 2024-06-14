@@ -1,0 +1,7 @@
+D:\Infinite\Hands-On\Equal\Equal\obj\Debug\Equal.csproj.AssemblyReference.cache
+D:\Infinite\Hands-On\Equal\Equal\obj\Debug\Equal.csproj.CoreCompileInputs.cache
+D:\Infinite\Hands-On\Equal\Equal\bin\Debug\Equal.exe.config
+D:\Infinite\Hands-On\Equal\Equal\bin\Debug\Equal.exe
+D:\Infinite\Hands-On\Equal\Equal\bin\Debug\Equal.pdb
+D:\Infinite\Hands-On\Equal\Equal\obj\Debug\Equal.exe
+D:\Infinite\Hands-On\Equal\Equal\obj\Debug\Equal.pdb

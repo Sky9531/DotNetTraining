@@ -1,0 +1,7 @@
+D:\Infinite\Hands-On\PositiveorNegative\PositiveorNegative\bin\Debug\PositiveorNegative.exe.config
+D:\Infinite\Hands-On\PositiveorNegative\PositiveorNegative\bin\Debug\PositiveorNegative.exe
+D:\Infinite\Hands-On\PositiveorNegative\PositiveorNegative\bin\Debug\PositiveorNegative.pdb
+D:\Infinite\Hands-On\PositiveorNegative\PositiveorNegative\obj\Debug\PositiveorNegative.csproj.AssemblyReference.cache
+D:\Infinite\Hands-On\PositiveorNegative\PositiveorNegative\obj\Debug\PositiveorNegative.csproj.CoreCompileInputs.cache
+D:\Infinite\Hands-On\PositiveorNegative\PositiveorNegative\obj\Debug\PositiveorNegative.exe
+D:\Infinite\Hands-On\PositiveorNegative\PositiveorNegative\obj\Debug\PositiveorNegative.pdb
