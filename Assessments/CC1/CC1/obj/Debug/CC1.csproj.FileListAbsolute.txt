@@ -1,0 +1,7 @@
+D:\Infinite\Assessments\CC1\CC1\bin\Debug\CC1.exe.config
+D:\Infinite\Assessments\CC1\CC1\bin\Debug\CC1.exe
+D:\Infinite\Assessments\CC1\CC1\bin\Debug\CC1.pdb
+D:\Infinite\Assessments\CC1\CC1\obj\Debug\CC1.csproj.AssemblyReference.cache
+D:\Infinite\Assessments\CC1\CC1\obj\Debug\CC1.csproj.CoreCompileInputs.cache
+D:\Infinite\Assessments\CC1\CC1\obj\Debug\CC1.exe
+D:\Infinite\Assessments\CC1\CC1\obj\Debug\CC1.pdb
