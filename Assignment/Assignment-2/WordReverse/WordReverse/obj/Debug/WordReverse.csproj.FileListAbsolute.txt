@@ -1,0 +1,7 @@
+D:\Infinite\Assignment\Assignment-2\WordReverse\WordReverse\bin\Debug\WordReverse.exe.config
+D:\Infinite\Assignment\Assignment-2\WordReverse\WordReverse\bin\Debug\WordReverse.exe
+D:\Infinite\Assignment\Assignment-2\WordReverse\WordReverse\bin\Debug\WordReverse.pdb
+D:\Infinite\Assignment\Assignment-2\WordReverse\WordReverse\obj\Debug\WordReverse.csproj.AssemblyReference.cache
+D:\Infinite\Assignment\Assignment-2\WordReverse\WordReverse\obj\Debug\WordReverse.csproj.CoreCompileInputs.cache
+D:\Infinite\Assignment\Assignment-2\WordReverse\WordReverse\obj\Debug\WordReverse.exe
+D:\Infinite\Assignment\Assignment-2\WordReverse\WordReverse\obj\Debug\WordReverse.pdb

@@ -1,0 +1,7 @@
+D:\Infinite\Assignment\Assignment-2\WordLengthCalculator\WordLengthCalculator\bin\Debug\WordLengthCalculator.exe.config
+D:\Infinite\Assignment\Assignment-2\WordLengthCalculator\WordLengthCalculator\bin\Debug\WordLengthCalculator.exe
+D:\Infinite\Assignment\Assignment-2\WordLengthCalculator\WordLengthCalculator\bin\Debug\WordLengthCalculator.pdb
+D:\Infinite\Assignment\Assignment-2\WordLengthCalculator\WordLengthCalculator\obj\Debug\WordLengthCalculator.csproj.AssemblyReference.cache
+D:\Infinite\Assignment\Assignment-2\WordLengthCalculator\WordLengthCalculator\obj\Debug\WordLengthCalculator.csproj.CoreCompileInputs.cache
+D:\Infinite\Assignment\Assignment-2\WordLengthCalculator\WordLengthCalculator\obj\Debug\WordLengthCalculator.exe
+D:\Infinite\Assignment\Assignment-2\WordLengthCalculator\WordLengthCalculator\obj\Debug\WordLengthCalculator.pdb

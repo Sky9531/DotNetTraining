@@ -1,0 +1,7 @@
+D:\Infinite\Assignment\Assignment-2\DayNumberToName\DayNumberToName\bin\Debug\DayNumberToName.exe.config
+D:\Infinite\Assignment\Assignment-2\DayNumberToName\DayNumberToName\bin\Debug\DayNumberToName.exe
+D:\Infinite\Assignment\Assignment-2\DayNumberToName\DayNumberToName\bin\Debug\DayNumberToName.pdb
+D:\Infinite\Assignment\Assignment-2\DayNumberToName\DayNumberToName\obj\Debug\DayNumberToName.csproj.AssemblyReference.cache
+D:\Infinite\Assignment\Assignment-2\DayNumberToName\DayNumberToName\obj\Debug\DayNumberToName.csproj.CoreCompileInputs.cache
+D:\Infinite\Assignment\Assignment-2\DayNumberToName\DayNumberToName\obj\Debug\DayNumberToName.exe
+D:\Infinite\Assignment\Assignment-2\DayNumberToName\DayNumberToName\obj\Debug\DayNumberToName.pdb

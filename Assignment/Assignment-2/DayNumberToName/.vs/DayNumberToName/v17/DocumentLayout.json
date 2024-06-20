@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Infinite\\Assignment\\Assignment-2\\DayNumberToName\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{190D428A-2E3C-42B1-849C-8BC7FDC7D422}|DayNumberToName\\DayNumberToName.csproj|d:\\infinite\\assignment\\assignment-2\\daynumbertoname\\daynumbertoname\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{190D428A-2E3C-42B1-849C-8BC7FDC7D422}|DayNumberToName\\DayNumberToName.csproj|solutionrelative:daynumbertoname\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Infinite\\Assignment\\Assignment-2\\DayNumberToName\\DayNumberToName\\Program.cs",
+              "RelativeDocumentMoniker": "DayNumberToName\\Program.cs",
+              "ToolTip": "D:\\Infinite\\Assignment\\Assignment-2\\DayNumberToName\\DayNumberToName\\Program.cs",
+              "RelativeToolTip": "DayNumberToName\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAuwC4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:09:56.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

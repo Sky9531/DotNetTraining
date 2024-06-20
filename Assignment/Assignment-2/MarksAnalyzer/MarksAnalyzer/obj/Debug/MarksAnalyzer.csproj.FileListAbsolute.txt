@@ -1,0 +1,7 @@
+D:\Infinite\Assignment\Assignment-2\MarksAnalyzer\MarksAnalyzer\bin\Debug\MarksAnalyzer.exe.config
+D:\Infinite\Assignment\Assignment-2\MarksAnalyzer\MarksAnalyzer\bin\Debug\MarksAnalyzer.exe
+D:\Infinite\Assignment\Assignment-2\MarksAnalyzer\MarksAnalyzer\bin\Debug\MarksAnalyzer.pdb
+D:\Infinite\Assignment\Assignment-2\MarksAnalyzer\MarksAnalyzer\obj\Debug\MarksAnalyzer.csproj.AssemblyReference.cache
+D:\Infinite\Assignment\Assignment-2\MarksAnalyzer\MarksAnalyzer\obj\Debug\MarksAnalyzer.csproj.CoreCompileInputs.cache
+D:\Infinite\Assignment\Assignment-2\MarksAnalyzer\MarksAnalyzer\obj\Debug\MarksAnalyzer.exe
+D:\Infinite\Assignment\Assignment-2\MarksAnalyzer\MarksAnalyzer\obj\Debug\MarksAnalyzer.pdb

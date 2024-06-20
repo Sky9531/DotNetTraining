@@ -1,0 +1,7 @@
+D:\Infinite\Assignment\Assignment-2\SumAndTriple\SumAndTriple\bin\Debug\SumAndTriple.exe.config
+D:\Infinite\Assignment\Assignment-2\SumAndTriple\SumAndTriple\bin\Debug\SumAndTriple.exe
+D:\Infinite\Assignment\Assignment-2\SumAndTriple\SumAndTriple\bin\Debug\SumAndTriple.pdb
+D:\Infinite\Assignment\Assignment-2\SumAndTriple\SumAndTriple\obj\Debug\SumAndTriple.csproj.AssemblyReference.cache
+D:\Infinite\Assignment\Assignment-2\SumAndTriple\SumAndTriple\obj\Debug\SumAndTriple.csproj.CoreCompileInputs.cache
+D:\Infinite\Assignment\Assignment-2\SumAndTriple\SumAndTriple\obj\Debug\SumAndTriple.exe
+D:\Infinite\Assignment\Assignment-2\SumAndTriple\SumAndTriple\obj\Debug\SumAndTriple.pdb

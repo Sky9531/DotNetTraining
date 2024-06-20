@@ -1,0 +1,7 @@
+D:\Infinite\Assignment\Assignment-2\ArrayMinMaxAverage\ArrayMinMaxAverage\bin\Debug\ArrayMinMaxAverage.exe.config
+D:\Infinite\Assignment\Assignment-2\ArrayMinMaxAverage\ArrayMinMaxAverage\bin\Debug\ArrayMinMaxAverage.exe
+D:\Infinite\Assignment\Assignment-2\ArrayMinMaxAverage\ArrayMinMaxAverage\bin\Debug\ArrayMinMaxAverage.pdb
+D:\Infinite\Assignment\Assignment-2\ArrayMinMaxAverage\ArrayMinMaxAverage\obj\Debug\ArrayMinMaxAverage.csproj.AssemblyReference.cache
+D:\Infinite\Assignment\Assignment-2\ArrayMinMaxAverage\ArrayMinMaxAverage\obj\Debug\ArrayMinMaxAverage.csproj.CoreCompileInputs.cache
+D:\Infinite\Assignment\Assignment-2\ArrayMinMaxAverage\ArrayMinMaxAverage\obj\Debug\ArrayMinMaxAverage.exe
+D:\Infinite\Assignment\Assignment-2\ArrayMinMaxAverage\ArrayMinMaxAverage\obj\Debug\ArrayMinMaxAverage.pdb

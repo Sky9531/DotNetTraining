@@ -1,0 +1,7 @@
+D:\Infinite\Assignment\Assignment-2\WordComparison\WordComparison\bin\Debug\WordComparison.exe.config
+D:\Infinite\Assignment\Assignment-2\WordComparison\WordComparison\bin\Debug\WordComparison.exe
+D:\Infinite\Assignment\Assignment-2\WordComparison\WordComparison\bin\Debug\WordComparison.pdb
+D:\Infinite\Assignment\Assignment-2\WordComparison\WordComparison\obj\Debug\WordComparison.csproj.AssemblyReference.cache
+D:\Infinite\Assignment\Assignment-2\WordComparison\WordComparison\obj\Debug\WordComparison.csproj.CoreCompileInputs.cache
+D:\Infinite\Assignment\Assignment-2\WordComparison\WordComparison\obj\Debug\WordComparison.exe
+D:\Infinite\Assignment\Assignment-2\WordComparison\WordComparison\obj\Debug\WordComparison.pdb
