@@ -5,3 +5,10 @@ D:\Infinite\Hands-On\MathOperation\MathOperation\obj\Debug\MathOperation.csproj.
 D:\Infinite\Hands-On\MathOperation\MathOperation\obj\Debug\MathOperation.csproj.CoreCompileInputs.cache
 D:\Infinite\Hands-On\MathOperation\MathOperation\obj\Debug\MathOperation.exe
 D:\Infinite\Hands-On\MathOperation\MathOperation\obj\Debug\MathOperation.pdb
+D:\Infinite\Assignment\Assignment-1\MathOperation\MathOperation\bin\Debug\MathOperation.exe.config
+D:\Infinite\Assignment\Assignment-1\MathOperation\MathOperation\bin\Debug\MathOperation.exe
+D:\Infinite\Assignment\Assignment-1\MathOperation\MathOperation\bin\Debug\MathOperation.pdb
+D:\Infinite\Assignment\Assignment-1\MathOperation\MathOperation\obj\Debug\MathOperation.csproj.AssemblyReference.cache
+D:\Infinite\Assignment\Assignment-1\MathOperation\MathOperation\obj\Debug\MathOperation.csproj.CoreCompileInputs.cache
+D:\Infinite\Assignment\Assignment-1\MathOperation\MathOperation\obj\Debug\MathOperation.exe
+D:\Infinite\Assignment\Assignment-1\MathOperation\MathOperation\obj\Debug\MathOperation.pdb

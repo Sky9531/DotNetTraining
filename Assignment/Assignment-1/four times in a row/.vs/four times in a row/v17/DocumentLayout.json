@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Infinite\\Assignment\\four times in a row\\",
+  "WorkspaceRootPath": "D:\\Infinite\\Assignment\\Assignment-1\\four times in a row\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB5FE60E-5A20-49D5-9986-D06A78329A0E}|four times in a row\\four times in a row.csproj|d:\\infinite\\assignment\\four times in a row\\four times in a row\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FB5FE60E-5A20-49D5-9986-D06A78329A0E}|four times in a row\\four times in a row.csproj|d:\\infinite\\assignment\\assignment-1\\four times in a row\\four times in a row\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB5FE60E-5A20-49D5-9986-D06A78329A0E}|four times in a row\\four times in a row.csproj|solutionrelative:four times in a row\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Infinite\\Assignment\\four times in a row\\four times in a row\\Program.cs",
+              "DocumentMoniker": "D:\\Infinite\\Assignment\\Assignment-1\\four times in a row\\four times in a row\\Program.cs",
               "RelativeDocumentMoniker": "four times in a row\\Program.cs",
-              "ToolTip": "D:\\Infinite\\Assignment\\four times in a row\\four times in a row\\Program.cs",
+              "ToolTip": "D:\\Infinite\\Assignment\\Assignment-1\\four times in a row\\four times in a row\\Program.cs",
               "RelativeToolTip": "four times in a row\\Program.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAcwBMAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

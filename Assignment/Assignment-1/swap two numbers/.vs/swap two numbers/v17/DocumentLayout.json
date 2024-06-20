@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Infinite\\Assignment\\swap two numbers\\",
+  "WorkspaceRootPath": "D:\\Infinite\\Assignment\\Assignment-1\\swap two numbers\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B42C2251-64ED-4963-A1CB-2B50C0AC3755}|swap two numbers\\swap two numbers.csproj|d:\\infinite\\assignment\\swap two numbers\\swap two numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B42C2251-64ED-4963-A1CB-2B50C0AC3755}|swap two numbers\\swap two numbers.csproj|d:\\infinite\\assignment\\assignment-1\\swap two numbers\\swap two numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B42C2251-64ED-4963-A1CB-2B50C0AC3755}|swap two numbers\\swap two numbers.csproj|solutionrelative:swap two numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Infinite\\Assignment\\swap two numbers\\swap two numbers\\Program.cs",
+              "DocumentMoniker": "D:\\Infinite\\Assignment\\Assignment-1\\swap two numbers\\swap two numbers\\Program.cs",
               "RelativeDocumentMoniker": "swap two numbers\\Program.cs",
-              "ToolTip": "D:\\Infinite\\Assignment\\swap two numbers\\swap two numbers\\Program.cs",
+              "ToolTip": "D:\\Infinite\\Assignment\\Assignment-1\\swap two numbers\\swap two numbers\\Program.cs",
               "RelativeToolTip": "swap two numbers\\Program.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAuwBwAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

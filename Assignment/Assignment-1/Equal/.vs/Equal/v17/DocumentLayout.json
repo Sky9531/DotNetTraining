@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Infinite\\Hands-On\\Equal\\",
+  "WorkspaceRootPath": "D:\\Infinite\\Assignment\\Assignment-1\\Equal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8AA5F583-BA1C-4634-879D-0FCF0711716F}|Equal\\Equal.csproj|d:\\infinite\\hands-on\\equal\\equal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8AA5F583-BA1C-4634-879D-0FCF0711716F}|Equal\\Equal.csproj|d:\\infinite\\assignment\\assignment-1\\equal\\equal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8AA5F583-BA1C-4634-879D-0FCF0711716F}|Equal\\Equal.csproj|solutionrelative:equal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Infinite\\Hands-On\\Equal\\Equal\\Program.cs",
+              "DocumentMoniker": "D:\\Infinite\\Assignment\\Assignment-1\\Equal\\Equal\\Program.cs",
               "RelativeDocumentMoniker": "Equal\\Program.cs",
-              "ToolTip": "D:\\Infinite\\Hands-On\\Equal\\Equal\\Program.cs",
+              "ToolTip": "D:\\Infinite\\Assignment\\Assignment-1\\Equal\\Equal\\Program.cs",
               "RelativeToolTip": "Equal\\Program.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAuwBoAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
