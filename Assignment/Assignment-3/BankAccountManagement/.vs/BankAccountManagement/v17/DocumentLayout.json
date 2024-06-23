@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Infinite\\Assignment\\Assignment-3\\BankAccountManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8E8A79-D61F-46C2-9F77-11A4BC93379C}|BankAccountManagement\\BankAccountManagement.csproj|d:\\infinite\\assignment\\assignment-3\\bankaccountmanagement\\bankaccountmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8E8A79-D61F-46C2-9F77-11A4BC93379C}|BankAccountManagement\\BankAccountManagement.csproj|solutionrelative:bankaccountmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Infinite\\Assignment\\Assignment-3\\BankAccountManagement\\BankAccountManagement\\Program.cs",
+              "RelativeDocumentMoniker": "BankAccountManagement\\Program.cs",
+              "ToolTip": "D:\\Infinite\\Assignment\\Assignment-3\\BankAccountManagement\\BankAccountManagement\\Program.cs",
+              "RelativeToolTip": "BankAccountManagement\\Program.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAcwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:28:47.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

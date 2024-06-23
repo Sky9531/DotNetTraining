@@ -1,0 +1,7 @@
+D:\Infinite\Assignment\Assignment-3\SaleManagement\SaleManagement\bin\Debug\SaleManagement.exe.config
+D:\Infinite\Assignment\Assignment-3\SaleManagement\SaleManagement\bin\Debug\SaleManagement.exe
+D:\Infinite\Assignment\Assignment-3\SaleManagement\SaleManagement\bin\Debug\SaleManagement.pdb
+D:\Infinite\Assignment\Assignment-3\SaleManagement\SaleManagement\obj\Debug\SaleManagement.csproj.AssemblyReference.cache
+D:\Infinite\Assignment\Assignment-3\SaleManagement\SaleManagement\obj\Debug\SaleManagement.csproj.CoreCompileInputs.cache
+D:\Infinite\Assignment\Assignment-3\SaleManagement\SaleManagement\obj\Debug\SaleManagement.exe
+D:\Infinite\Assignment\Assignment-3\SaleManagement\SaleManagement\obj\Debug\SaleManagement.pdb

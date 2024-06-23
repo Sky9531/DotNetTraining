@@ -1,0 +1,7 @@
+D:\Infinite\Assignment\Assignment-3\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe.config
+D:\Infinite\Assignment\Assignment-3\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+D:\Infinite\Assignment\Assignment-3\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+D:\Infinite\Assignment\Assignment-3\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.AssemblyReference.cache
+D:\Infinite\Assignment\Assignment-3\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+D:\Infinite\Assignment\Assignment-3\StudentManagement\StudentManagement\obj\Debug\StudentManagement.exe
+D:\Infinite\Assignment\Assignment-3\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
