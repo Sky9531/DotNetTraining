@@ -1,7 +1,0 @@
-D:\Infinite\Assignment\Assignment-3\CustomerManagement\CustomerManagement\bin\Debug\CustomerManagement.exe.config
-D:\Infinite\Assignment\Assignment-3\CustomerManagement\CustomerManagement\bin\Debug\CustomerManagement.exe
-D:\Infinite\Assignment\Assignment-3\CustomerManagement\CustomerManagement\bin\Debug\CustomerManagement.pdb
-D:\Infinite\Assignment\Assignment-3\CustomerManagement\CustomerManagement\obj\Debug\CustomerManagement.csproj.AssemblyReference.cache
-D:\Infinite\Assignment\Assignment-3\CustomerManagement\CustomerManagement\obj\Debug\CustomerManagement.csproj.CoreCompileInputs.cache
-D:\Infinite\Assignment\Assignment-3\CustomerManagement\CustomerManagement\obj\Debug\CustomerManagement.exe
-D:\Infinite\Assignment\Assignment-3\CustomerManagement\CustomerManagement\obj\Debug\CustomerManagement.pdb
