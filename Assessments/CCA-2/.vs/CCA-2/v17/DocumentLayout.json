@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Infinite\\Assessments\\CCA-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E734B29-C8A8-4928-929A-BA5236E9DBEA}|CCA-2\\CCA-2.csproj|d:\\infinite\\assessments\\cca-2\\cca-2\\handlingexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E734B29-C8A8-4928-929A-BA5236E9DBEA}|CCA-2\\CCA-2.csproj|solutionrelative:cca-2\\handlingexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E734B29-C8A8-4928-929A-BA5236E9DBEA}|CCA-2\\CCA-2.csproj|d:\\infinite\\assessments\\cca-2\\cca-2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E734B29-C8A8-4928-929A-BA5236E9DBEA}|CCA-2\\CCA-2.csproj|solutionrelative:cca-2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E734B29-C8A8-4928-929A-BA5236E9DBEA}|CCA-2\\CCA-2.csproj|d:\\infinite\\assessments\\cca-2\\cca-2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E734B29-C8A8-4928-929A-BA5236E9DBEA}|CCA-2\\CCA-2.csproj|solutionrelative:cca-2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HandlingException.cs",
+              "DocumentMoniker": "D:\\Infinite\\Assessments\\CCA-2\\CCA-2\\HandlingException.cs",
+              "RelativeDocumentMoniker": "CCA-2\\HandlingException.cs",
+              "ToolTip": "D:\\Infinite\\Assessments\\CCA-2\\CCA-2\\HandlingException.cs",
+              "RelativeToolTip": "CCA-2\\HandlingException.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwBwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:43:25.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Infinite\\Assessments\\CCA-2\\CCA-2\\Product.cs",
+              "RelativeDocumentMoniker": "CCA-2\\Product.cs",
+              "ToolTip": "D:\\Infinite\\Assessments\\CCA-2\\CCA-2\\Product.cs",
+              "RelativeToolTip": "CCA-2\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:53:26.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Infinite\\Assessments\\CCA-2\\CCA-2\\Student.cs",
+              "RelativeDocumentMoniker": "CCA-2\\Student.cs",
+              "ToolTip": "D:\\Infinite\\Assessments\\CCA-2\\CCA-2\\Student.cs",
+              "RelativeToolTip": "CCA-2\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:16:23.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

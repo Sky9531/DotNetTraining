@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Infinite\\Assignment\\Assignment-4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E6C6-47A8-4466-8170-6D57C672A771}|Assignment-4\\Assignment-4.csproj|D:\\Infinite\\Assignment\\Assignment-4\\assignment-4\\namedisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A85E6C6-47A8-4466-8170-6D57C672A771}|Assignment-4\\Assignment-4.csproj|solutionrelative:assignment-4\\namedisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E6C6-47A8-4466-8170-6D57C672A771}|Assignment-4\\Assignment-4.csproj|D:\\Infinite\\Assignment\\Assignment-4\\assignment-4\\lettercounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A85E6C6-47A8-4466-8170-6D57C672A771}|Assignment-4\\Assignment-4.csproj|solutionrelative:assignment-4\\lettercounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E6C6-47A8-4466-8170-6D57C672A771}|Assignment-4\\Assignment-4.csproj|D:\\Infinite\\Assignment\\Assignment-4\\assignment-4\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A85E6C6-47A8-4466-8170-6D57C672A771}|Assignment-4\\Assignment-4.csproj|solutionrelative:assignment-4\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E6C6-47A8-4466-8170-6D57C672A771}|Assignment-4\\Assignment-4.csproj|D:\\Infinite\\Assignment\\Assignment-4\\assignment-4\\scholarship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A85E6C6-47A8-4466-8170-6D57C672A771}|Assignment-4\\Assignment-4.csproj|solutionrelative:assignment-4\\scholarship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85E6C6-47A8-4466-8170-6D57C672A771}|Assignment-4\\Assignment-4.csproj|d:\\infinite\\assignment\\assignment-4\\assignment-4\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A85E6C6-47A8-4466-8170-6D57C672A771}|Assignment-4\\Assignment-4.csproj|solutionrelative:assignment-4\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Assignment-4||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Assignment-4",
+              "DocumentMoniker": "D:\\Infinite\\Assignment\\Assignment-4\\Assignment-4\\Assignment-4.csproj",
+              "RelativeDocumentMoniker": "Assignment-4\\Assignment-4.csproj",
+              "ToolTip": "D:\\Infinite\\Assignment\\Assignment-4\\Assignment-4\\Assignment-4.csproj",
+              "RelativeToolTip": "Assignment-4\\Assignment-4.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-25T19:17:30.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\Infinite\\Assignment\\Assignment-4\\Assignment-4\\Doctor.cs",
+              "RelativeDocumentMoniker": "Assignment-4\\Doctor.cs",
+              "ToolTip": "D:\\Infinite\\Assignment\\Assignment-4\\Assignment-4\\Doctor.cs",
+              "RelativeToolTip": "Assignment-4\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T19:14:12.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Scholarship.cs",
+              "DocumentMoniker": "D:\\Infinite\\Assignment\\Assignment-4\\Assignment-4\\Scholarship.cs",
+              "RelativeDocumentMoniker": "Assignment-4\\Scholarship.cs",
+              "ToolTip": "D:\\Infinite\\Assignment\\Assignment-4\\Assignment-4\\Scholarship.cs",
+              "RelativeToolTip": "Assignment-4\\Scholarship.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T18:11:11.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "D:\\Infinite\\Assignment\\Assignment-4\\Assignment-4\\BankAccount.cs",
+              "RelativeDocumentMoniker": "Assignment-4\\BankAccount.cs",
+              "ToolTip": "D:\\Infinite\\Assignment\\Assignment-4\\Assignment-4\\BankAccount.cs",
+              "RelativeToolTip": "Assignment-4\\BankAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T18:00:06.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LetterCounter.cs",
+              "DocumentMoniker": "D:\\Infinite\\Assignment\\Assignment-4\\Assignment-4\\LetterCounter.cs",
+              "RelativeDocumentMoniker": "Assignment-4\\LetterCounter.cs",
+              "ToolTip": "D:\\Infinite\\Assignment\\Assignment-4\\Assignment-4\\LetterCounter.cs",
+              "RelativeToolTip": "Assignment-4\\LetterCounter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:52:11.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NameDisplay.cs",
+              "DocumentMoniker": "D:\\Infinite\\Assignment\\Assignment-4\\Assignment-4\\NameDisplay.cs",
+              "RelativeDocumentMoniker": "Assignment-4\\NameDisplay.cs",
+              "ToolTip": "D:\\Infinite\\Assignment\\Assignment-4\\Assignment-4\\NameDisplay.cs",
+              "RelativeToolTip": "Assignment-4\\NameDisplay.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:46:26.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
