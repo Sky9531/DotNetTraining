@@ -1,0 +1,7 @@
+D:\Infinite\Assessments\CCA-3\CCA-3\bin\Debug\CCA-3.exe.config
+D:\Infinite\Assessments\CCA-3\CCA-3\bin\Debug\CCA-3.exe
+D:\Infinite\Assessments\CCA-3\CCA-3\bin\Debug\CCA-3.pdb
+D:\Infinite\Assessments\CCA-3\CCA-3\obj\Debug\CCA-3.csproj.AssemblyReference.cache
+D:\Infinite\Assessments\CCA-3\CCA-3\obj\Debug\CCA-3.csproj.CoreCompileInputs.cache
+D:\Infinite\Assessments\CCA-3\CCA-3\obj\Debug\CCA-3.exe
+D:\Infinite\Assessments\CCA-3\CCA-3\obj\Debug\CCA-3.pdb
