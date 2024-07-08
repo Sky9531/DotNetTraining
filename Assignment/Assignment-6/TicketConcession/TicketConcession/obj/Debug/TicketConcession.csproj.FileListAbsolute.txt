@@ -1,0 +1,6 @@
+D:\Infinite\Assignment\Assignment-6\TicketConcession\TicketConcession\bin\Debug\TicketConcession.dll
+D:\Infinite\Assignment\Assignment-6\TicketConcession\TicketConcession\bin\Debug\TicketConcession.pdb
+D:\Infinite\Assignment\Assignment-6\TicketConcession\TicketConcession\obj\Debug\TicketConcession.csproj.AssemblyReference.cache
+D:\Infinite\Assignment\Assignment-6\TicketConcession\TicketConcession\obj\Debug\TicketConcession.csproj.CoreCompileInputs.cache
+D:\Infinite\Assignment\Assignment-6\TicketConcession\TicketConcession\obj\Debug\TicketConcession.dll
+D:\Infinite\Assignment\Assignment-6\TicketConcession\TicketConcession\obj\Debug\TicketConcession.pdb

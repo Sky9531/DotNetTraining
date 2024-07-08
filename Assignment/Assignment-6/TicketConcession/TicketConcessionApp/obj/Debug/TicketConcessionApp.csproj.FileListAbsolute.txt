@@ -1,0 +1,10 @@
+D:\Infinite\Assignment\Assignment-6\TicketConcession\TicketConcessionApp\bin\Debug\TicketConcessionApp.exe.config
+D:\Infinite\Assignment\Assignment-6\TicketConcession\TicketConcessionApp\bin\Debug\TicketConcessionApp.exe
+D:\Infinite\Assignment\Assignment-6\TicketConcession\TicketConcessionApp\bin\Debug\TicketConcessionApp.pdb
+D:\Infinite\Assignment\Assignment-6\TicketConcession\TicketConcessionApp\bin\Debug\TicketConcession.dll
+D:\Infinite\Assignment\Assignment-6\TicketConcession\TicketConcessionApp\bin\Debug\TicketConcession.pdb
+D:\Infinite\Assignment\Assignment-6\TicketConcession\TicketConcessionApp\obj\Debug\TicketConcessionApp.csproj.AssemblyReference.cache
+D:\Infinite\Assignment\Assignment-6\TicketConcession\TicketConcessionApp\obj\Debug\TicketConcessionApp.csproj.CoreCompileInputs.cache
+D:\Infinite\Assignment\Assignment-6\TicketConcession\TicketConcessionApp\obj\Debug\TicketCo.CB9BF266.Up2Date
+D:\Infinite\Assignment\Assignment-6\TicketConcession\TicketConcessionApp\obj\Debug\TicketConcessionApp.exe
+D:\Infinite\Assignment\Assignment-6\TicketConcession\TicketConcessionApp\obj\Debug\TicketConcessionApp.pdb
