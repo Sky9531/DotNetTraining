@@ -1,0 +1,7 @@
+D:\Infinite\ADO.NET\EmployeeManager\EmployeeManager\bin\Debug\EmployeeManager.exe.config
+D:\Infinite\ADO.NET\EmployeeManager\EmployeeManager\bin\Debug\EmployeeManager.exe
+D:\Infinite\ADO.NET\EmployeeManager\EmployeeManager\bin\Debug\EmployeeManager.pdb
+D:\Infinite\ADO.NET\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.csproj.AssemblyReference.cache
+D:\Infinite\ADO.NET\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.csproj.CoreCompileInputs.cache
+D:\Infinite\ADO.NET\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.exe
+D:\Infinite\ADO.NET\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.pdb
