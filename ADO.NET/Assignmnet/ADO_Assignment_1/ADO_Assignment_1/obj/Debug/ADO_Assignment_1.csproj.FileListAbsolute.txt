@@ -1,0 +1,7 @@
+C:\Users\shivarajp\source\repos\ADO_Assignment_1\ADO_Assignment_1\bin\Debug\ADO_Assignment_1.exe.config
+C:\Users\shivarajp\source\repos\ADO_Assignment_1\ADO_Assignment_1\bin\Debug\ADO_Assignment_1.exe
+C:\Users\shivarajp\source\repos\ADO_Assignment_1\ADO_Assignment_1\bin\Debug\ADO_Assignment_1.pdb
+C:\Users\shivarajp\source\repos\ADO_Assignment_1\ADO_Assignment_1\obj\Debug\ADO_Assignment_1.csproj.AssemblyReference.cache
+C:\Users\shivarajp\source\repos\ADO_Assignment_1\ADO_Assignment_1\obj\Debug\ADO_Assignment_1.csproj.CoreCompileInputs.cache
+C:\Users\shivarajp\source\repos\ADO_Assignment_1\ADO_Assignment_1\obj\Debug\ADO_Assignment_1.exe
+C:\Users\shivarajp\source\repos\ADO_Assignment_1\ADO_Assignment_1\obj\Debug\ADO_Assignment_1.pdb
