@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Infinite\\SQL\\Assessment\\CC7\\Web Page\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C39EF3F-148A-4873-92B0-7C6DC1BB84B8}|Web Page\\Web Page.csproj|d:\\infinite\\sql\\assessment\\cc7\\web page\\web page\\list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C39EF3F-148A-4873-92B0-7C6DC1BB84B8}|Web Page\\Web Page.csproj|solutionrelative:web page\\list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C39EF3F-148A-4873-92B0-7C6DC1BB84B8}|Web Page\\Web Page.csproj|d:\\infinite\\sql\\assessment\\cc7\\web page\\web page\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C39EF3F-148A-4873-92B0-7C6DC1BB84B8}|Web Page\\Web Page.csproj|solutionrelative:web page\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C39EF3F-148A-4873-92B0-7C6DC1BB84B8}|Web Page\\Web Page.csproj|d:\\infinite\\sql\\assessment\\cc7\\web page\\web page\\document.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C39EF3F-148A-4873-92B0-7C6DC1BB84B8}|Web Page\\Web Page.csproj|solutionrelative:web page\\document.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.html",
+              "DocumentMoniker": "D:\\Infinite\\SQL\\Assessment\\CC7\\Web Page\\Web Page\\List.html",
+              "RelativeDocumentMoniker": "Web Page\\List.html",
+              "ToolTip": "D:\\Infinite\\SQL\\Assessment\\CC7\\Web Page\\Web Page\\List.html",
+              "RelativeToolTip": "Web Page\\List.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-31T05:36:36.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Document.html",
+              "DocumentMoniker": "D:\\Infinite\\SQL\\Assessment\\CC7\\Web Page\\Web Page\\Document.html",
+              "RelativeDocumentMoniker": "Web Page\\Document.html",
+              "ToolTip": "D:\\Infinite\\SQL\\Assessment\\CC7\\Web Page\\Web Page\\Document.html",
+              "RelativeToolTip": "Web Page\\Document.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-31T05:35:22.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Infinite\\SQL\\Assessment\\CC7\\Web Page\\Web Page\\Program.cs",
+              "RelativeDocumentMoniker": "Web Page\\Program.cs",
+              "ToolTip": "D:\\Infinite\\SQL\\Assessment\\CC7\\Web Page\\Web Page\\Program.cs",
+              "RelativeToolTip": "Web Page\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:33:58.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
