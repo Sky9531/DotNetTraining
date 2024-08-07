@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Infinite\\Web Technologies\\Assessment\\CC8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F94AF792-8CB0-4323-822A-FC3272151542}|CC8\\CC8.csproj|d:\\infinite\\web technologies\\assessment\\cc8\\cc8\\button_click.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F94AF792-8CB0-4323-822A-FC3272151542}|CC8\\CC8.csproj|solutionrelative:cc8\\button_click.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94AF792-8CB0-4323-822A-FC3272151542}|CC8\\CC8.csproj|d:\\infinite\\web technologies\\assessment\\cc8\\cc8\\odd_even.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F94AF792-8CB0-4323-822A-FC3272151542}|CC8\\CC8.csproj|solutionrelative:cc8\\odd_even.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94AF792-8CB0-4323-822A-FC3272151542}|CC8\\CC8.csproj|d:\\infinite\\web technologies\\assessment\\cc8\\cc8\\multiplication_division.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F94AF792-8CB0-4323-822A-FC3272151542}|CC8\\CC8.csproj|solutionrelative:cc8\\multiplication_division.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94AF792-8CB0-4323-822A-FC3272151542}|CC8\\CC8.csproj|d:\\infinite\\web technologies\\assessment\\cc8\\cc8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F94AF792-8CB0-4323-822A-FC3272151542}|CC8\\CC8.csproj|solutionrelative:cc8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "button_click.html",
+              "DocumentMoniker": "D:\\Infinite\\Web Technologies\\Assessment\\CC8\\CC8\\button_click.html",
+              "RelativeDocumentMoniker": "CC8\\button_click.html",
+              "ToolTip": "D:\\Infinite\\Web Technologies\\Assessment\\CC8\\CC8\\button_click.html",
+              "RelativeToolTip": "CC8\\button_click.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-07T04:58:16.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "odd_even.html",
+              "DocumentMoniker": "D:\\Infinite\\Web Technologies\\Assessment\\CC8\\CC8\\odd_even.html",
+              "RelativeDocumentMoniker": "CC8\\odd_even.html",
+              "ToolTip": "D:\\Infinite\\Web Technologies\\Assessment\\CC8\\CC8\\odd_even.html",
+              "RelativeToolTip": "CC8\\odd_even.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-07T04:57:58.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "multiplication_division.html",
+              "DocumentMoniker": "D:\\Infinite\\Web Technologies\\Assessment\\CC8\\CC8\\multiplication_division.html",
+              "RelativeDocumentMoniker": "CC8\\multiplication_division.html",
+              "ToolTip": "D:\\Infinite\\Web Technologies\\Assessment\\CC8\\CC8\\multiplication_division.html",
+              "RelativeToolTip": "CC8\\multiplication_division.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-07T04:48:00.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Infinite\\Web Technologies\\Assessment\\CC8\\CC8\\Program.cs",
+              "RelativeDocumentMoniker": "CC8\\Program.cs",
+              "ToolTip": "D:\\Infinite\\Web Technologies\\Assessment\\CC8\\CC8\\Program.cs",
+              "RelativeToolTip": "CC8\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T04:41:55.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
