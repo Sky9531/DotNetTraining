@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Infinite\\MVC\\Assessment\\Question1(mvc)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3889B49E-EF4E-4682-AB35-8589840492ED}|Question1(mvc)\\Question1(mvc).csproj|d:\\infinite\\mvc\\assessment\\question1(mvc)\\question1(mvc)\\views\\code\\customerdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3889B49E-EF4E-4682-AB35-8589840492ED}|Question1(mvc)\\Question1(mvc).csproj|solutionrelative:question1(mvc)\\views\\code\\customerdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3889B49E-EF4E-4682-AB35-8589840492ED}|Question1(mvc)\\Question1(mvc).csproj|d:\\infinite\\mvc\\assessment\\question1(mvc)\\question1(mvc)\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3889B49E-EF4E-4682-AB35-8589840492ED}|Question1(mvc)\\Question1(mvc).csproj|solutionrelative:question1(mvc)\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3889B49E-EF4E-4682-AB35-8589840492ED}|Question1(mvc)\\Question1(mvc).csproj|d:\\infinite\\mvc\\assessment\\question1(mvc)\\question1(mvc)\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3889B49E-EF4E-4682-AB35-8589840492ED}|Question1(mvc)\\Question1(mvc).csproj|solutionrelative:question1(mvc)\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3889B49E-EF4E-4682-AB35-8589840492ED}|Question1(mvc)\\Question1(mvc).csproj|d:\\infinite\\mvc\\assessment\\question1(mvc)\\question1(mvc)\\views\\code\\customersingermany.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3889B49E-EF4E-4682-AB35-8589840492ED}|Question1(mvc)\\Question1(mvc).csproj|solutionrelative:question1(mvc)\\views\\code\\customersingermany.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3889B49E-EF4E-4682-AB35-8589840492ED}|Question1(mvc)\\Question1(mvc).csproj|d:\\infinite\\mvc\\assessment\\question1(mvc)\\question1(mvc)\\models\\northwinddb.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{3889B49E-EF4E-4682-AB35-8589840492ED}|Question1(mvc)\\Question1(mvc).csproj|solutionrelative:question1(mvc)\\models\\northwinddb.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\Infinite\\MVC\\Assessment\\Question1(mvc)\\Question1(mvc)\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Question1(mvc)\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\Infinite\\MVC\\Assessment\\Question1(mvc)\\Question1(mvc)\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Question1(mvc)\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:20:40.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerDetails.cshtml",
+              "DocumentMoniker": "D:\\Infinite\\MVC\\Assessment\\Question1(mvc)\\Question1(mvc)\\Views\\Code\\CustomerDetails.cshtml",
+              "RelativeDocumentMoniker": "Question1(mvc)\\Views\\Code\\CustomerDetails.cshtml",
+              "ToolTip": "D:\\Infinite\\MVC\\Assessment\\Question1(mvc)\\Question1(mvc)\\Views\\Code\\CustomerDetails.cshtml",
+              "RelativeToolTip": "Question1(mvc)\\Views\\Code\\CustomerDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T06:14:04.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomersInGermany.cshtml",
+              "DocumentMoniker": "D:\\Infinite\\MVC\\Assessment\\Question1(mvc)\\Question1(mvc)\\Views\\Code\\CustomersInGermany.cshtml",
+              "RelativeDocumentMoniker": "Question1(mvc)\\Views\\Code\\CustomersInGermany.cshtml",
+              "ToolTip": "D:\\Infinite\\MVC\\Assessment\\Question1(mvc)\\Question1(mvc)\\Views\\Code\\CustomersInGermany.cshtml",
+              "RelativeToolTip": "Question1(mvc)\\Views\\Code\\CustomersInGermany.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T06:13:01.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CodeController.cs",
+              "DocumentMoniker": "D:\\Infinite\\MVC\\Assessment\\Question1(mvc)\\Question1(mvc)\\Controllers\\CodeController.cs",
+              "RelativeDocumentMoniker": "Question1(mvc)\\Controllers\\CodeController.cs",
+              "ToolTip": "D:\\Infinite\\MVC\\Assessment\\Question1(mvc)\\Question1(mvc)\\Controllers\\CodeController.cs",
+              "RelativeToolTip": "Question1(mvc)\\Controllers\\CodeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T05:57:13.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NorthwindDB.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Infinite\\MVC\\Assessment\\Question1(mvc)\\Question1(mvc)\\Models\\NorthwindDB.edmx",
+              "RelativeDocumentMoniker": "Question1(mvc)\\Models\\NorthwindDB.edmx",
+              "ToolTip": "D:\\Infinite\\MVC\\Assessment\\Question1(mvc)\\Question1(mvc)\\Models\\NorthwindDB.edmx [Diagram1]",
+              "RelativeToolTip": "Question1(mvc)\\Models\\NorthwindDB.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-08-14T05:54:51.109Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
